@@ -27,6 +27,6 @@
  <a href="https://discord.gg/uE2uEXh7Pc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "guilherme9froes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/GuixzDev/GuixzDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
     
 </div>
