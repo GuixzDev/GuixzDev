@@ -8,7 +8,6 @@
 [![](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)
 [![](https://img.shields.io/badge/CSS3-grey.svg?style=for-the-badge&logo=CSS3)](#)
 [![](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=VisualStudioCode)](#)
-[![](https://img.shields.io/badge/Minhaloja-grey.svg?style=for-the-badge&logo=Discord)]([https://discord.gg/EXhUK9mzXn](https://discord.gg/GwTU8EcmMz))
 <br />
 ----
 <div align="center" width="100">
