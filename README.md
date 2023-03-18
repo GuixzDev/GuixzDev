@@ -1,29 +1,26 @@
-### Oii! Eu sou  o Guilherme
-<div align="center">
-  <a href="https://github.com/GuixzDev">
- <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=guixzdev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guixzdev&layout=compact&langs_count=7&theme=react" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1212&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=1000&color=F70000&width=435&lines=Bem+Vindo+ao+meu+GitHub!+Me+chamo+Tkz;Atualmente+sou+desenvolvedor+Senior+BackEnd;Pleno+em+FrontEnd;Para+contato%3A+contatotkzdev%40gmail.com)](https://git.io/typing-svg)
+----
+[![](https://img.shields.io/badge/Lua-grey.svg?style=for-the-badge&logo=lua)](#)
+[![](https://img.shields.io/badge/Javascript-grey.svg?style=for-the-badge&logo=javascript)](#)
+[![](https://img.shields.io/badge/MySQl-grey.svg?style=for-the-badge&logo=mysql)](#)
+[![](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)
+[![](https://img.shields.io/badge/CSS3-grey.svg?style=for-the-badge&logo=CSS3)](#)
+[![](https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=Github)](https://github.com/TkzDev)
+[![](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=VisualStudioCode)](#)
+[![](https://img.shields.io/badge/Minhaloja-grey.svg?style=for-the-badge&logo=Discord)](https://discord.gg/EXhUK9mzXn)
+<br />
+----
+<div align="center" width="100">
+<a href="https://github.com/TkzDev">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TkzDev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TkzDev&layout=compact&theme=nord" />
+</a>
 </div>
-  
-  ##
-  
- <div align="center">
-  <img align="center" alt="Guixz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guixz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guixz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Guixz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">     
-   <img align="center" alt="Guixz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">     
-</div>
-  
-##
-  
-  <div align="center"> 
-  <a href="https://www.youtube.com/channel/UC72Uix0mITGOLfRpRMMNhIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilherme_palma9/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/guixz_dev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/uE2uEXh7Pc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "guilherme9froes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-    
-</div>
+
+<p align="center">
+  <img width="100" height="27" src="https://komarev.com/ghpvc/?username=TkzDev&color=blue&style=flat-square&label=Views">
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1212&height=120&section=footer"/>
