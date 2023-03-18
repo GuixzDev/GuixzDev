@@ -13,7 +13,7 @@
 <div align="center" width="100">
 <a href="https://github.com/GuixzDev">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuixzDev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuixzDev&layout=compact&theme=nord" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuixzDev&layout=compact&theme=github_dark" />
 </a>
 </div>
 
