@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E81F7FF&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E81F7&width=435&lines=Sejam+Bem+Vindos+ao+meu+GITHUB;Me+chamo+Guilherme;Sou+um+desenvolvedor+back+end)](https://git.io/typing-svg)
 ----
@@ -19,5 +19,3 @@
 <p align="center">
   <img width="100" height="27" src="https://komarev.com/ghpvc/?username=GuixzDev&color=blue&style=flat-square&label=Views">
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E81F7FF&height=120&section=footer"/>
